@@ -1,0 +1,21 @@
+user = "Pradeep Singh";
+print(user[0]);
+print(user[1]);
+print(user[2]);
+print(user[3]);
+print(user[4]);
+print(user[5]);
+print(user[6]);
+print('----------');
+print(user[-1]);
+print(user[-2]);
+print(user[-3]);
+print(user[-4]);
+print(user[-5]);
+print('----------');
+print(user[3:8]);
+print(user[3:]);
+print(user[:7]);
+print(user[:]);
+
+print(len(user));
